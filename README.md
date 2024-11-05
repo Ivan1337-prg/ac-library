@@ -1,7 +1,5 @@
 # AC(AtCoder) Library
 
-AC Library is the official library of [AtCoder](https://atcoder.jp/home). This repository manages the contents of AC Library.
-
 You may refer to the following links for more details:
 
 - [The Announcement on AtCoder](https://atcoder.jp/posts/518)
